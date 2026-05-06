@@ -33,6 +33,7 @@ email     : aasthaghosh15@gmail.com
 linkedin  : https://www.linkedin.com/in/aasthaghosh24/
 ```
 
+- 🔭 **Currently building:** [Trendiio](https://github.com/aasthaghosh/trendiio) — a production-grade MERN social media platform
 - 📚 **Learning:** TypeScript · Next.js · System Design
 - 💡 **Interests:** Scalable backend systems, real-time applications, cloud-native architecture
 - ⚡ **Fun fact:** I've solved 250+ LeetCode problems and love turning complex ideas into clean systems
@@ -128,7 +129,11 @@ linkedin  : https://www.linkedin.com/in/aasthaghosh24/
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aasthaghosh/aasthaghosh/output/snake.svg" alt="contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aasthaghosh/aasthaghosh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aasthaghosh/aasthaghosh/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/aasthaghosh/aasthaghosh/output/github-snake.svg" />
+</picture>
 
 </div>
 
