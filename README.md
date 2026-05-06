@@ -33,10 +33,10 @@ email     : aasthaghosh15@gmail.com
 linkedin  : https://www.linkedin.com/in/aasthaghosh24/
 ```
 
-- 🔭 **Currently building:** Social Media Website — trendiio
+- 🔭 **Currently building:** [Trendiio](https://github.com/aasthaghosh/trendiio) — a production-grade MERN social media platform
 - 📚 **Learning:** TypeScript · Next.js · System Design
-- 💡 **Interests:** Scalable backend systems, AI-powered products, cloud-native architecture
-- ⚡ **Fun fact:** I enjoy turning "what if AI could..." ideas into working products
+- 💡 **Interests:** Scalable backend systems, real-time applications, cloud-native architecture
+- ⚡ **Fun fact:** I've solved 250+ LeetCode problems and love turning complex ideas into clean systems
 
 ---
 
@@ -104,8 +104,8 @@ linkedin  : https://www.linkedin.com/in/aasthaghosh24/
 
 | Project | Description | Stack |
 |---|---|---|
-| ⚡ **AI Website Generator** | NLP to deployable full-stack web app — type a description, get a live site | TypeScript, Next.js, LLMs |
-| 📊 **Analytics Dashboard** | Real-time dashboard with JWT auth, REST APIs, and live data visualisation | React, Node.js, MongoDB |
+| 🚆 **RailCoach** | Full-stack Railway Coach Management System with JWT auth, RESTful APIs, and a real-time maintenance dashboard | React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT |
+| 📱 **Trendiio** | Production-grade social media platform with real-time chat, dynamic feeds, stories, and CDN-based media delivery | MERN, Tailwind CSS, Clerk, Inngest, ImageKit, WebSockets |
 
 </div>
 
