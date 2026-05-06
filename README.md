@@ -33,7 +33,6 @@ email     : aasthaghosh15@gmail.com
 linkedin  : https://www.linkedin.com/in/aasthaghosh24/
 ```
 
-- 🔭 **Currently building:** [Trendiio](https://github.com/aasthaghosh/trendiio) — a production-grade MERN social media platform
 - 📚 **Learning:** TypeScript · Next.js · System Design
 - 💡 **Interests:** Scalable backend systems, real-time applications, cloud-native architecture
 - ⚡ **Fun fact:** I've solved 250+ LeetCode problems and love turning complex ideas into clean systems
